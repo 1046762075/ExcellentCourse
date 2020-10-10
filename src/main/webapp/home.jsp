@@ -85,7 +85,7 @@
 				</div>
 				<div class="col-md-7 col-md-offset-2 main">
 					<h2>
-                        数字电视原理相关书籍
+                        大数据原理相关书籍
 					</h2>
 					<p>
 						<img src="${APP_PATH}/static/img/book1.jpg" height="200" width="150" />
