@@ -3,7 +3,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
             <div class="container-fluid">
 				<div class="navbar-header">
-					<a class="navbar-brand" href="#">湘学院《大数据技术与应用》精品课程</a>
+					<a class="navbar-brand" href="#">湘信院《大数据技术与应用》精品课程</a>
 				</div>
                 <div>
                     <ul class="nav navbar-nav">
